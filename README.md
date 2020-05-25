@@ -11,7 +11,7 @@ https://www.kaggle.com/c/aptos2019-blindness-detection/data
 ### Distribution of Images in Dataset
 ![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/distribution.PNG)
 
-### Graphs of Loss and Accuracy for model made from Scratch
+### Graphs of Loss and Accuracy of model made from Scratch
 ![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/loss_scratch.PNG)
 ![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/accuracy_scratch.PNG)
 
@@ -21,14 +21,14 @@ https://www.kaggle.com/c/aptos2019-blindness-detection/data
 ### Confusion Matrix of model made from Scratch
 ![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/confusionmatrix_scratch.PNG)
 
-### Graphs of Loss and Accuracy for model made using Transfer Learning
+### Graphs of Loss and Accuracy of model made using Transfer Learning
 ![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/loss_tl.PNG)
 ![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/accuracy_tl.PNG)
 
 ### Scores of model made using Transfer Learning
 ![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/table_tl.PNG)
 
-### Confusion Matrix of model made from Scratch
+### Confusion Matrix of model made from Transfer Learning
 ![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/confusionmatrix_tl.PNG)
 
 ### GUI of Diabetic Retinopathy
