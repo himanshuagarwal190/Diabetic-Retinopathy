@@ -7,3 +7,6 @@ https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
 ### Sample Images in DataSet :
 ![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/DRsampleimages.PNG)
+
+### Distribution of Images in Dataset
+![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/distribution.PNG)
