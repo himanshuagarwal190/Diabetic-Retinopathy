@@ -16,7 +16,7 @@ https://www.kaggle.com/c/aptos2019-blindness-detection/data
 ![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/accuracy_scratch.PNG)
 
 ### Scores of model made from Scratch
-![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/table_scratch.PNG)
+![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/table_Scratch.PNG)
 
 ### Confusion Matrix of model made from Scratch
 ![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/confusionmatrix_scratch.PNG)
