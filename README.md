@@ -32,6 +32,6 @@ https://www.kaggle.com/c/aptos2019-blindness-detection/data
 ![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/confusionmatrix_tl.png)
 
 ### GUI of Diabetic Retinopathy
-![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/gui_dr.png)
+![Image description](https://github.com/himanshuagarwal190/Diabetic-Retinopathy/blob/master/Images/gui_dr.PNG)
 
 
